@@ -1,1 +1,5 @@
-document.write("Hello");
+sayHello();
+
+function sayHello(){
+  window.alert("Hello"); 
+}
